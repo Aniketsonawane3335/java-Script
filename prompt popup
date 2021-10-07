@@ -1,0 +1,11 @@
+<html>
+<head>
+  <title> prompt popups</title>
+  <script>
+  var s =prompt("enter your user id");
+document.write(s);
+
+  
+  </script>
+  </head>
+  </html>

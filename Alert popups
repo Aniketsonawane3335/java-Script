@@ -1,0 +1,10 @@
+<html>
+<head>
+  <title> Alert  and confirm popups</title>
+  <script>
+  alert("click to proceed");
+  confirm("click here to proceed");
+  
+  </script>
+  </head>
+  </html>

@@ -1,0 +1,13 @@
+<html>
+<head>
+ <title>Comments</title>
+ <script>
+ document.write("Inside the head <br/>");
+ </script>
+ </head>
+ <body>
+  <script>
+ document.write("Inside the body  <br/>");
+ </script>
+ </body>
+ </html>
